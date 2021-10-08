@@ -118,6 +118,8 @@ The parameter settings used in Maninelli et al. can be found in
 #### Mancinelli_2021_PNAS_3DCylinder specific parameters:
 no input parser.
 
+## Energy Landscape
+The *EnergyLandscape.mlapp* is a GUI that shall help to predict local energy minima for a specific parameter combination. To start the GUI call the file from console or hit the run button.
 
 ## Abstract Mancinelli et al. 2021
 Abstract will be included as soon as the paper is published
